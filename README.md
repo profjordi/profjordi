@@ -1,6 +1,6 @@
  Hola a tothom 👋
 ===
-En construcció ... 
+En construcció ... :building_construction:
 <!--
 **profjordi/profjordi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
