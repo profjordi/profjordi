@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- I’m currently working on [Institut Tecnològic de Barcelona] (https://www.itb.cat)
+- I’m currently working on [Institut Tecnològic de Barcelona](https://www.itb.cat)
 - Except on weekends, when I'm traveling around the world :minibus: :oncoming_bus: :bike:
